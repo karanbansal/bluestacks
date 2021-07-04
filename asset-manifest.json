@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/bluestacks/static/css/main.0bcd2e7d.chunk.css",
+    "main.js": "/bluestacks/static/js/main.1eb3452d.chunk.js",
+    "main.js.map": "/bluestacks/static/js/main.1eb3452d.chunk.js.map",
+    "runtime-main.js": "/bluestacks/static/js/runtime-main.ef05df46.js",
+    "runtime-main.js.map": "/bluestacks/static/js/runtime-main.ef05df46.js.map",
+    "static/css/2.4bd8e119.chunk.css": "/bluestacks/static/css/2.4bd8e119.chunk.css",
+    "static/js/2.97d14264.chunk.js": "/bluestacks/static/js/2.97d14264.chunk.js",
+    "static/js/2.97d14264.chunk.js.map": "/bluestacks/static/js/2.97d14264.chunk.js.map",
+    "static/js/3.528ba340.chunk.js": "/bluestacks/static/js/3.528ba340.chunk.js",
+    "static/js/3.528ba340.chunk.js.map": "/bluestacks/static/js/3.528ba340.chunk.js.map",
+    "index.html": "/bluestacks/index.html",
+    "static/css/2.4bd8e119.chunk.css.map": "/bluestacks/static/css/2.4bd8e119.chunk.css.map",
+    "static/css/main.0bcd2e7d.chunk.css.map": "/bluestacks/static/css/main.0bcd2e7d.chunk.css.map",
+    "static/js/2.97d14264.chunk.js.LICENSE.txt": "/bluestacks/static/js/2.97d14264.chunk.js.LICENSE.txt",
+    "static/media/game_1.png": "/bluestacks/static/media/game_1.bc5dc000.png",
+    "static/media/game_3.png": "/bluestacks/static/media/game_3.64d2d22b.png",
+    "static/media/game_4.png": "/bluestacks/static/media/game_4.3ef629fb.png",
+    "static/media/game_5.png": "/bluestacks/static/media/game_5.70e33e05.png",
+    "static/media/game_6.png": "/bluestacks/static/media/game_6.31091d04.png",
+    "static/media/game_7.png": "/bluestacks/static/media/game_7.602c179c.png",
+    "static/media/game_8.png": "/bluestacks/static/media/game_8.13fad18a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef05df46.js",
+    "static/css/2.4bd8e119.chunk.css",
+    "static/js/2.97d14264.chunk.js",
+    "static/css/main.0bcd2e7d.chunk.css",
+    "static/js/main.1eb3452d.chunk.js"
+  ]
+}
